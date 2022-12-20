@@ -4,7 +4,7 @@ import ContactsForm from "../Form";
 import ContactsList from "../Contacts";
 import Filter from "../Filter";
 import { Notify } from "notiflix";
-import { useLocalStorage } from "components/hooks/useLocalStorage";
+import { useLocalStorage } from "hooks/useLocalStorage";
 
 
 
